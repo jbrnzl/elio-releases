@@ -17,8 +17,8 @@
 ## How to install
 
 1. Click the purple button above. A file called `Trame.dmg` appears in your Downloads.
-2. Open it, then drag the Trame icon onto the Applications folder.
-3. Open Trame from your Applications folder.
+2. Open it and double-click Trame.
+3. Click **Install**. Trame moves itself into your Applications folder and opens.
 
 The first time, your Mac may ask whether you want to open an app downloaded from the internet. Click **Open**: Trame is checked by Apple.
 
